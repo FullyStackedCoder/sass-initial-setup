@@ -5,11 +5,13 @@ A simple skeleton project for SASS following the 7-1 rule for architecture.
 **_ Dependencies _**
 Install live-server globally for the dev server to work as intended.
 Below you will find other packages for running the dev server, compiling sass to css and for helping with the final build process.
+```
 "autoprefixer": "^9.4.3",
 "concat": "^1.0.3",
 "node-sass": "^4.11.0",
 "npm-run-all": "^4.1.5",
 "postcss-cli": "^6.1.0"
+```
 
 **_ How to use? _**
 
