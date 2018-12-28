@@ -1,4 +1,4 @@
-# My SASS Initial Project Setup
+# SASS Initial Project Setup and Scripts
 
 A simple skeleton project for SASS following the 7-1 rule for architecture.
 
